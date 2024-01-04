@@ -14,8 +14,8 @@
     "nodemon": "^2.0.22"
   },
   "scripts": {
-    "dev": "nodemon ./src/index.js",
-    "start": "node ./src/index.js"
+    "dev": "nodemon backend/src/index.js",
+    "start": "node backend/src/index.js"
   },
   "keywords": [],
   "author": "",
